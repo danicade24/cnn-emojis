@@ -175,3 +175,4 @@ if __name__ == "__main__":
     for folder in emoji_map.values():
         os.makedirs(folder, exist_ok=True)
     app.run()
+
